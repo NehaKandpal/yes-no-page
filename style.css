@@ -1,0 +1,39 @@
+body{
+    background-color: #11101000;
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:10px;
+    text-align: center;
+}
+.heading {
+font-size: 5em;
+margin-bottom: 0;
+
+
+}
+.caption {
+    font-size: 1.2e,;
+
+}
+.container {
+    border: solid 1px #254485;
+    padding: 10px;
+}.row {
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    align-items: center;
+    aspect-ratio: 16/4;
+
+}
+input[type="button"]{
+    font-size:2em;
+        padding:5px;
+        width: 200px;
+        background-color:aquamarine;
+        color: #47489e;
+        border:none;
+        aspect-ratio: 200/100;
+        border-radius: 20px;
+
+}
